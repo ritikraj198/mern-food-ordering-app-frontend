@@ -1,6 +1,5 @@
 import { type OrderStatus, type Order } from "@/types";
 import { Card, CardContent, CardHeader, CardTitle } from "./ui/card";
-import { Separator } from "./ui/separator";
 import { Badge } from "./ui/badge";
 import { Label } from "./ui/label";
 import {
